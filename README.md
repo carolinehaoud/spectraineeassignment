@@ -2,7 +2,7 @@
 
 <!DOCTYPE html>
 <html>
-   <img src="https://www.columbiaspectator.com/pb/resources/img/Spectator_Logo_white_text.png" alt="description" width="500" height="600">
+   <img src="https://www.columbiaspectator.com/pb/resources/img/Spectator_Logo_white_text.png" alt="description" width="305" height="67" left="11" top="14">
 
 <style>
     *{
