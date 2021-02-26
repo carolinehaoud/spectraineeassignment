@@ -1,7 +1,9 @@
-# spectraineeassignment
+#spectraineeassignment
 
 <!DOCTYPE html>
 <html>
+   <img src="https://www.columbiaspectator.com/pb/resources/img/Spectator_Logo_white_text.png" alt="description" width="500" height="600">
+
 <style>
     *{
     box-sixing: border-box;
