@@ -5,7 +5,7 @@
  
 <style>
    .container-1{
-   
+   display:flex;
    }
    
    .container-1 div(
